@@ -1,0 +1,9 @@
+AreaCodeInfoIntent give me information about {AreaCode}
+AreaCodeInfoIntent give me information about the area code {AreaCode}
+AreaCodeInfoIntent about {AreaCode}
+AreaCodeInfoIntent what cities are in {AreaCode}
+AreaCodeInfoIntent get cities in {AreaCode}
+AreaCodeInfoIntent what region does {AreaCode} encompass
+AreaCodeInfoIntent what is in {AreaCode}
+AreaCodeInfoIntent what's in {AreaCode}
+AreaCodeInfoIntent tell me about {AreaCode}
